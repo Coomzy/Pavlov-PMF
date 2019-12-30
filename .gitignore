@@ -72,8 +72,12 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Pavlov VR Specific Changes
+
 **/definition.uasset
 
 **/Content/Collections
 **/Content/Developers
 **/Content/SteamAudio
+
+!Plugins/CustomMapTools/Binaries/Win64/*.dll
