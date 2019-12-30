@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+**/definition.uasset
+
+**/Content/Collections
+**/Content/Developers
+**/Content/SteamAudio
