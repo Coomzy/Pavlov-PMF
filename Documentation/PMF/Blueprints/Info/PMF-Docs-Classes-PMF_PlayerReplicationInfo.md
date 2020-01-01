@@ -1,3 +1,3 @@
-# Pavlov  Modding Framework (PMF) PMF_PlayerReplicationInfo Documentation
+PMF - PMF_PlayerReplicationInfo Documentation
 
 It's an actor...
