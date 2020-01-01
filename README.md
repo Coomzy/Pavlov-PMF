@@ -11,7 +11,7 @@ PMF is a Custom Game Mode modding framework for Pavlov VR, this includes game mo
 
 # Pavlov-INF - Infection Modding Framework for Pavlov VR
 
-INF is a Custom Game Mode modding framework with Infection based game modes in mind for Pavlov VR, it is built upon PMF so and PMF related folders are required.
+INF is a Custom Game Mode modding framework with Infection based game modes in mind for Pavlov VR, it is built upon PMF so any PMF related folders are required.
 
 It is based upon Halo style of Infection with Humans vs Zombies, when Humans die they become 'Infected' and join the Zombie team when all Humans have been infected the round is over.
 
