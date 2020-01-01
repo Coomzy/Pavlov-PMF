@@ -4,10 +4,10 @@
 
 ### Info ###
 
-[PMF_PlayerReplicationInfo] (https://github.com/Coomzy/Pavlov-PMF/blob/master/Documentation/PMF-Docs.md)
+[PMF_PlayerReplicationInfo](https://github.com/Coomzy/Pavlov-PMF/blob/master/Documentation/PMF-Docs.md)
 
 ### LevelActors ###
 
 #### CORE ####
 
-[PMF_GameLogic] (https://github.com/Coomzy/Pavlov-PMF/blob/master/Documentation/PMF-Docs.md)
+[PMF_GameLogic](https://github.com/Coomzy/Pavlov-PMF/blob/master/Documentation/PMF-Docs.md)
