@@ -1,3 +1,0 @@
-# Pavlov Infection Modding Framework (INF) INF_PlayerReplicationInfo Documentation
-
-It's an actor...
