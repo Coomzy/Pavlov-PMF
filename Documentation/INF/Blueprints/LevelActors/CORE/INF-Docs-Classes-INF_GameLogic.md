@@ -1,0 +1,3 @@
+# Pavlov Infection Modding Framework (INF) INF_GameLogic Documentation
+
+It's an actor...
