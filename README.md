@@ -17,7 +17,7 @@ It is based upon Halo style of Infection with Humans vs Zombies, when Humans die
 
 Example Features:
 - Energry Swords (By default Infected have Energy Swords)
-- Alpha/Minion Zombie Settings (Zombies have seperate player settings from Humans allowing for quick iteration of health, gravity, loadout etc.)
+- Alpha/Minion Zombie Settings (Zombies have seperate player settings from Humans allowing for quick iteration of health, speed, gravity, loadout etc.)
 - Zombie Selection Choice (Intial Zombies are chosen based on a setting from Random to Winner etc.)
 - Zombie Respawn Settings (By default all zombies respawn but can be restricted to Alphas only etc.)
 
