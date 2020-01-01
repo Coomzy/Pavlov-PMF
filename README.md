@@ -26,4 +26,4 @@ Example Features:
 Credits:\
 Vankrupt Games own any Pavlov assets\
 Epic own any Unreal Engine assets\
-Microsoft own any Halo assets\
+Microsoft own any Halo assets
