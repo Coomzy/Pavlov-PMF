@@ -1,0 +1,3 @@
+# PMF - PMF_DummyCharacterSpawner Documentation
+
+It's an actor...

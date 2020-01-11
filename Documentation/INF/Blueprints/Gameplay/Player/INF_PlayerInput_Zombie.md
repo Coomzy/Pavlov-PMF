@@ -1,0 +1,3 @@
+# INF - INF_PlayerInput_Zombie Documentation
+
+It's an actor...

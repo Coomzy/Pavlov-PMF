@@ -1,0 +1,3 @@
+# INF - INF_Singleton Documentation
+
+It's an actor...

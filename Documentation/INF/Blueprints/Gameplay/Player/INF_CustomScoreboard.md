@@ -1,0 +1,3 @@
+# INF - INF_CustomScoreboard Documentation
+
+It's an actor...

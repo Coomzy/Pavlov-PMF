@@ -1,0 +1,3 @@
+# INF - INF_SoundManager Documentation
+
+It's an actor...

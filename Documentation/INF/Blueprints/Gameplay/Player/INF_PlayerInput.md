@@ -1,0 +1,3 @@
+# INF - INF_PlayerInput Documentation
+
+It's an actor...

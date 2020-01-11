@@ -1,0 +1,3 @@
+# INF - INF_PlayerInfo Documentation
+
+It's an actor...

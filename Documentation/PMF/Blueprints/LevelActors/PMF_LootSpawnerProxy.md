@@ -1,0 +1,3 @@
+# PMF - PMF_LootSpawnerProxy Documentation
+
+It's an actor...
