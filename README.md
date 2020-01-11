@@ -23,7 +23,7 @@ Example Features:
 - Zombie Respawn Settings (By default all zombies respawn but can be restricted to Alphas only etc.)
 
 [INF Documentation](https://github.com/Coomzy/Pavlov-PMF/blob/master/Documentation/INF-Docs.md) \
-[INF Setup Guide YouTube Video](https://steamcommunity.com/sharedfiles/filedetails/?id=1951491250)
+[INF Setup Guide YouTube Video](steam://openurl/https://www.youtube.com/watch?v=FWJsdFllQMk)
 
 Credits:\
 Vankrupt Games own any Pavlov assets\
