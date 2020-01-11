@@ -7,7 +7,7 @@ PMF is a Custom Game Mode modding framework for Pavlov VR, this includes game mo
 - PMF_DebugHandler (Server/Client logging that can be viewed in world or attached to the scoreboard, also constant logging)
 - And many more
 
-[PMF Documentation](https://github.com/Coomzy/Pavlov-PMF/blob/master/Documentation/PMF-Docs.md)
+[PMF Documentation](https://github.com/Coomzy/Pavlov-PMF/blob/master/Documentation/PMF-Docs.md) \
 [PMF Setup Guide YouTube Video] (https://www.youtube.com/watch?v=FWJsdFllQMk)
 
 # Pavlov-INF - Infection Modding Framework for Pavlov VR
@@ -22,7 +22,7 @@ Example Features:
 - Zombie Selection Choice (Intial Zombies are chosen based on a setting from Random to Winner etc.)
 - Zombie Respawn Settings (By default all zombies respawn but can be restricted to Alphas only etc.)
 
-[INF Documentation](https://github.com/Coomzy/Pavlov-PMF/blob/master/Documentation/INF-Docs.md)
+[INF Documentation](https://github.com/Coomzy/Pavlov-PMF/blob/master/Documentation/INF-Docs.md) \
 [INF Setup Guide YouTube Video] (https://steamcommunity.com/sharedfiles/filedetails/?id=1951491250)
 
 Credits:\
