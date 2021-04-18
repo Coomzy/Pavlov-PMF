@@ -81,3 +81,4 @@ DerivedDataCache/*
 **/Content/SteamAudio
 
 !Plugins/CustomMapTools/Binaries/Win64/*.dll
+!Plugins/JsonUtils/Binaries/Win64/*.dll
