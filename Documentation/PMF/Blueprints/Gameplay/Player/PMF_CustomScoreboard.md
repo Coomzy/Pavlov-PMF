@@ -1,3 +1,0 @@
-# PMF - PMF_CustomScoreboard Documentation
-
-It's an actor...

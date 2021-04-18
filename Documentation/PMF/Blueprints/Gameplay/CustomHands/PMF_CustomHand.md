@@ -1,3 +1,0 @@
-# PMF - PMF_CustomHand Documentation
-
-It's an actor...

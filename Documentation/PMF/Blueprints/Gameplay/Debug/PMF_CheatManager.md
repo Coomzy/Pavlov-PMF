@@ -1,3 +1,0 @@
-# PMF - PMF_CheatManager Documentation
-
-It's an actor...

@@ -1,3 +1,0 @@
-# INF - INF_LastManStanding Documentation
-
-It's an actor...

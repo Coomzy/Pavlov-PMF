@@ -1,3 +1,0 @@
-# PMF - PMF_DebugHandler Documentation
-
-It's an actor...

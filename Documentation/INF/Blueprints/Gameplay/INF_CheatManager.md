@@ -1,3 +1,0 @@
-# INF - INF_CheatManager Documentation
-
-It's an actor...

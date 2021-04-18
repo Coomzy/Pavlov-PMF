@@ -1,3 +1,0 @@
-# PMF - PMF_DummyCharacterSpawner_MaterialTester Documentation
-
-It's an actor...

@@ -1,3 +1,0 @@
-# INF - INF_DebugHandler Documentation
-
-It's an actor...

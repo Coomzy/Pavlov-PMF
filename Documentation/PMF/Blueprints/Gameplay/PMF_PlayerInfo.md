@@ -1,3 +1,0 @@
-# PMF - PMF_PlayerInfo Documentation
-
-It's an actor...

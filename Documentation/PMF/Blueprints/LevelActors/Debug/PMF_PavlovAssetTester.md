@@ -1,3 +1,0 @@
-# PMF - PMF_PavlovAssetTester Documentation
-
-It's an actor...

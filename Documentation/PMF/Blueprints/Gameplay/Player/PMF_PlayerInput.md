@@ -1,3 +1,0 @@
-# PMF - PMF_PlayerInput Documentation
-
-It's an actor...

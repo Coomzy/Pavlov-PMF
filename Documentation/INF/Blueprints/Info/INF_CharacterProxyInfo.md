@@ -1,3 +1,0 @@
-# INF - INF_CharacterProxyInfo Documentation
-
-It's an actor...

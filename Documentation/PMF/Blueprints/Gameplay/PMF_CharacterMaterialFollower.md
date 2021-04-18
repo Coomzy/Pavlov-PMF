@@ -1,3 +1,0 @@
-# PMF - PMF_CharacterMaterialFollower Documentation
-
-It's an actor...

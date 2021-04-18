@@ -1,3 +1,0 @@
-# PMF - PMF_WidgetInteractor Documentation
-
-It's an actor...

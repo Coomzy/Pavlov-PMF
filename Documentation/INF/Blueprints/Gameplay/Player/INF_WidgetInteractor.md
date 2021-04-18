@@ -1,3 +1,0 @@
-# INF - INF_WidgetInteractor Documentation
-
-It's an actor...

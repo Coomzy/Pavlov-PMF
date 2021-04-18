@@ -1,3 +1,0 @@
-# PMF - PMF_Singleton Documentation
-
-It's an actor...

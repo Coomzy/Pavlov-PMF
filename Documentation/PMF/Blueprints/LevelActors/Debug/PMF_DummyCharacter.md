@@ -1,3 +1,0 @@
-# PMF - PMF_DummyCharacter Documentation
-
-It's an actor...

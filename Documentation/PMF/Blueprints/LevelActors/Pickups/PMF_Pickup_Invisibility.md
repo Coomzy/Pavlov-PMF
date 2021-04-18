@@ -1,3 +1,0 @@
-# PMF - PMF_Pickup_Invisibility Documentation
-
-It's an actor...

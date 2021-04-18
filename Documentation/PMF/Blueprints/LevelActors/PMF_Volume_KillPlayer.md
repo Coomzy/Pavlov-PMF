@@ -1,3 +1,0 @@
-# PMF - PMF_Volume_KillPlayer Documentation
-
-It's an actor...

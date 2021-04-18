@@ -1,3 +1,0 @@
-# PMF - PMF_ThirdPersonCharacterTester Documentation
-
-It's an actor...

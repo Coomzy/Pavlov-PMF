@@ -1,3 +1,0 @@
-# INF - INF_TeamReplicationInfo Documentation
-
-It's an actor...
