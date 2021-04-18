@@ -21,7 +21,7 @@ Example Features:
 - Zombie Respawn Settings (By default all zombies respawn but can be restricted to Alphas only etc.)
 - Options for Halo style announcements and awards
 
-[INF Setup Guide YouTube Video (Outdated)](steam://openurl/https://www.youtube.com/watch?v=FWJsdFllQMk)
+[INF Setup Guide YouTube Video (Outdated)](https://www.youtube.com/watch?v=FWJsdFllQMk)
 
 Credits:\
 Vankrupt Games own any Pavlov assets\
